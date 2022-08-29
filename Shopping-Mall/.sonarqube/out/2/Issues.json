@@ -1,0 +1,335 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.2.0.0",
+        "fileVersion": "4.2.0-4.22220.2 (1e40aa11)",
+        "semanticVersion": "4.2.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field 'object' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 16,
+                  "endLine": 20,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 40,
+                  "endLine": 18,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field '_context' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 16,
+                  "endLine": 26,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 38,
+                  "endLine": 16,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field '_mapper' must contain a non-null value when exiting constructor. Consider declaring the field as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 16,
+                  "endLine": 26,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 34,
+                  "endLine": 17,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0472",
+          "level": "warning",
+          "message": "The result of the expression is always 'false' since a value of type 'int' is never equal to 'null' of type 'int?'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 17,
+                  "endLine": 80,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 2
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make 'object' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 40,
+                  "endLine": 18,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3246",
+          "level": "warning",
+          "message": "Add the 'out' keyword to parameter 'TEntity' to make it 'covariant'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Repository/IDataRepository.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 38,
+                  "endLine": 5,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field 'object' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 40,
+                  "endLine": 18,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2583",
+          "level": "warning",
+          "message": "Change this condition so that it does not always evaluate to 'false'; some subsequent code is never executed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 17,
+                  "endLine": 80,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/training/FinalAssignment/Shopping-Mall/Shopping-Mall%20WebApi/Controllers/MallController.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 13,
+                  "endLine": 83,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0472": {
+          "id": "CS0472",
+          "shortDescription": "The result of the expression is always the same since a value of this type is never equal to 'null'",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0472)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S2583": {
+          "id": "S2583",
+          "shortDescription": "Conditionally executed code should be reachable",
+          "fullDescription": "Conditional expressions which are always true or false can lead to dead code. Such code is always buggy and should never be used in production.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2583",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2933": {
+          "id": "S2933",
+          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
+          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that’s not marked readonly but is only set in the constructor, it could cause confusion about the field’s intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3246": {
+          "id": "S3246",
+          "shortDescription": "Generic type parameters should be co/contravariant when possible",
+          "fullDescription": "In the interests of making code as usable as possible, interfaces and delegates with generic parameters should use the out and in modifiers when possible to make the interfaces and delegates covariant and contravariant, respectively.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3246",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S4487": {
+          "id": "S4487",
+          "shortDescription": "Unread \"private\" fields should be removed",
+          "fullDescription": "Private fields only used to store values without reading them later is a case of dead store. So changing the value of such field is useless and most probably indicates a serious error in the code.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope",
+              "Unnecessary"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

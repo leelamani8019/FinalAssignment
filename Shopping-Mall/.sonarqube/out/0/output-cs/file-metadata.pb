@@ -1,0 +1,9 @@
+S
+JD:\training\FinalAssignment\Shopping-Mall\Shopping_Library\Entity\Malls.csutf-8R
+ID:\training\FinalAssignment\Shopping-Mall\Shopping_Library\MallContext.csutf-8h
+_D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\Migrations\20220824064203_initial.csutf-8s
+hD:\training\FinalAssignment\Shopping-Mall\Shopping_Library\Migrations\20220824064203_initial.Designer.csutf-8l
+aD:\training\FinalAssignment\Shopping-Mall\Shopping_Library\Migrations\MallContextModelSnapshot.csutf-8y
+nD:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.GlobalUsings.g.csutf-8…
+zD:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8w
+lD:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.AssemblyInfo.csutf-8

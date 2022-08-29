@@ -1,0 +1,5 @@
+﻿D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\Entity\Malls.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\MallContext.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\Migrations\20220824064203_initial.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\Migrations\20220824064203_initial.Designer.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\Migrations\MallContextModelSnapshot.cs

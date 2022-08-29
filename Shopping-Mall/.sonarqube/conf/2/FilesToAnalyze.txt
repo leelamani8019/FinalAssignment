@@ -1,0 +1,12 @@
+﻿D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\api\ModelApiMall.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\Automap\AutoMapper.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\Controllers\MallController.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\Program.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\Repository\IDataRepository.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.GlobalUsings.g.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.AssemblyInfo.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\appsettings.Development.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\appsettings.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\Properties\launchSettings.json

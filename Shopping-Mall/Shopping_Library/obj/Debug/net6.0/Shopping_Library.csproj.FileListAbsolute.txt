@@ -1,0 +1,14 @@
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\bin\Debug\net6.0\Shopping_Library.deps.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\bin\Debug\net6.0\Shopping_Library.runtimeconfig.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\bin\Debug\net6.0\Shopping_Library.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\bin\Debug\net6.0\Shopping_Library.pdb
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.csproj.AssemblyReference.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.AssemblyInfoInputs.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.AssemblyInfo.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.csproj.CoreCompileInputs.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\refint\Shopping_Library.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.pdb
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\Shopping_Library.genruntimeconfig.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping_Library\obj\Debug\net6.0\ref\Shopping_Library.dll

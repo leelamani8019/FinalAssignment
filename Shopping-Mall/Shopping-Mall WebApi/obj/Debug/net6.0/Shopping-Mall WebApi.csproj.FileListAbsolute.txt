@@ -1,0 +1,72 @@
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\appsettings.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Shopping-Mall WebApi.exe
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Shopping-Mall WebApi.deps.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Shopping-Mall WebApi.runtimeconfig.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Shopping-Mall WebApi.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Shopping-Mall WebApi.pdb
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\EntityFramework.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\System.Web.Providers.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.Azure.DocumentDB.Core.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win7-x64\native\Cosmos.CRTCompat.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Shopping_Library.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\bin\Debug\net6.0\Shopping_Library.pdb
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.csproj.AssemblyReference.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.AssemblyInfoInputs.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.AssemblyInfo.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.csproj.CoreCompileInputs.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\scopedcss\bundle\Shopping-Mall WebApi.styles.css
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.csproj.CopyComplete
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\refint\Shopping-Mall WebApi.dll
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.pdb
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\Shopping-Mall WebApi.genruntimeconfig.cache
+D:\training\FinalAssignment\Shopping-Mall\Shopping-Mall WebApi\obj\Debug\net6.0\ref\Shopping-Mall WebApi.dll

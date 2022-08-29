@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Shopping_Mall_MVC.Models.AdminRole>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pending List</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Panno)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rolename)
+            </th>
+           @* <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>*@
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Panno)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Rolename)
+            </td>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>*@
+            <td>
+                
+            <button id="Approve" class="btn btn-success"asp-route-id="@item.Id" data-id=@item.Id>Approve</button>
+            <button id="reject" class="btn btn-danger"asp-route-id="@item.Id" data-id=@item.Id>Reject</button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#Approve").click(function() {
+            var d = ($(this).attr("data-id"));
+            $.ajax({
+                type: "POST",
+                url: "/Account/Simple",
+                data: { "id": d},
+                success: function(response) {
+                    alert(response);
+                },
+                failure: function(response) {
+                    alert(response.responseText);
+                },
+                error: function(response) {
+                    alert(response.responseText);
+                }
+            });
+        });
+    });
+</script>
+<script type="text/javascript">
+        $(document).ready(function() {
+            $("#reject").click(function () {
+                var h = ($(this).attr("data-id"));
+                $.ajax({
+                    type: "POST",
+                    url: "/Account/rejected",
+                    data: {"id":h},
+                    success: function(response) { alert(response); },
+                    failure: function (response) {
+                        alert(response.responseText);
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                   }
+                });
+            });
+        });
+    </script>
